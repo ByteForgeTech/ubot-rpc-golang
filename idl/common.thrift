@@ -1,0 +1,2 @@
+namespace go ubot.common
+
